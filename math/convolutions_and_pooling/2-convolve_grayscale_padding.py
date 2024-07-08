@@ -1,4 +1,7 @@
-s script performs a convolution on grayscale images
+#!/usr/bin/env python3
+
+'''
+    This script performs a convolution on grayscale images
     with custom padding
 '''
 
