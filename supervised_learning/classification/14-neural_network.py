@@ -1,4 +1,5 @@
-ting a neural network"""
+#!/usr/bin/env python3
+"""creating a neural network"""
 
 
 import numpy as np
