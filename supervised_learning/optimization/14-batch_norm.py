@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-    function def create_batch_norm_layer(p#!/usr/bin/env python3
-"""
     function def create_batch_norm_layer(prev, n, activation):
     that creates a batch normalization layer for a neural network
 """
