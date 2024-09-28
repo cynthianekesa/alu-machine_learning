@@ -1,4 +1,4 @@
-v#!/usr/bin/env python3
+#!/usr/bin/env python3
 '''
     Function def batch_norm(Z, gamma, beta, epsilon):
     that normalizes an unactivated output of a neural
