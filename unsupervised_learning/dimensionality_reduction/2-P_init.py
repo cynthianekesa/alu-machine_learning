@@ -1,4 +1,6 @@
- function def P_init(X, perplexity):
+#!/usr/bin/env python3
+'''
+A function def P_init(X, perplexity):
 that initializes all variables required
 to calculate the P affinities in t-SNE:
 '''
